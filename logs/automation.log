@@ -1,0 +1,86 @@
+16:28:54.181 [main] INFO  api.test.UserTests - ******Creating the User********
+16:28:56.668 [main] INFO  api.test.UserTests - ******User is created********
+16:28:56.685 [main] INFO  api.test.UserTests - ******Reading the User info********
+16:28:56.969 [main] INFO  api.test.UserTests - ******User info is displayed********
+16:28:56.981 [main] INFO  api.test.UserTests - ******Updating the User********
+16:28:57.238 [main] INFO  api.test.UserTests - ******User is updated********
+16:28:57.469 [main] INFO  api.test.UserTests - ******deleting the User********
+16:28:57.681 [main] INFO  api.test.UserTests - ******User is deleted********
+16:31:18.630 [main] INFO  api.test.UserTests - ******Creating the User********
+16:31:20.859 [main] INFO  api.test.UserTests - ******User is created********
+16:31:20.873 [main] INFO  api.test.UserTests - ******Reading the User info********
+16:31:21.137 [main] INFO  api.test.UserTests - ******User info is displayed********
+16:31:21.147 [main] INFO  api.test.UserTests - ******Updating the User********
+16:31:21.403 [main] INFO  api.test.UserTests - ******User is updated********
+16:31:21.652 [main] INFO  api.test.UserTests - ******deleting the User********
+16:31:21.872 [main] INFO  api.test.UserTests - ******User is deleted********
+16:35:56.082 [main] DEBUG api.test.UserTests - *****Debugging*********
+16:35:56.106 [main] INFO  api.test.UserTests - ******Creating the User********
+16:35:58.384 [main] INFO  api.test.UserTests - ******User is created********
+16:35:58.398 [main] INFO  api.test.UserTests - ******Reading the User info********
+16:35:58.989 [main] INFO  api.test.UserTests - ******User info is displayed********
+16:35:58.992 [main] INFO  api.test.UserTests - ******Updating the User********
+16:35:59.468 [main] INFO  api.test.UserTests - ******User is updated********
+16:36:00.456 [main] INFO  api.test.UserTests - ******deleting the User********
+16:36:01.864 [main] INFO  api.test.UserTests - ******User is deleted********
+13:40:51.116 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+13:40:51.151 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+13:40:53.397 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+13:40:53.412 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+13:40:53.672 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+13:40:53.684 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+13:40:53.701 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+13:40:53.972 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+13:42:34.435 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+13:42:34.459 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+13:42:36.622 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+13:42:36.637 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+13:42:36.899 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+13:42:36.908 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+13:42:36.923 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+13:42:37.176 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+13:44:06.202 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+13:44:06.223 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+13:44:08.473 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+13:44:08.493 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+13:44:08.800 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+13:44:08.805 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+13:44:09.116 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is updated********
+13:44:09.418 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+13:44:09.738 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+14:00:56.898 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+14:00:56.916 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+14:00:59.238 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+14:00:59.255 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+14:00:59.570 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+14:00:59.575 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+14:00:59.830 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is updated********
+14:01:00.059 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+14:01:00.295 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+14:03:01.654 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+14:03:01.677 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+14:03:04.793 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+14:03:04.810 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+14:03:05.084 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+14:03:05.086 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+14:03:05.349 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is updated********
+14:03:05.619 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+14:03:05.844 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+14:20:44.478 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+14:20:44.497 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+14:20:46.978 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+14:20:46.991 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+14:20:47.244 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+14:20:47.246 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+14:20:47.488 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is updated********
+14:20:47.714 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+14:20:47.964 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
+14:43:52.647 [main] DEBUG api.test.UserTestsfrompropertiesFile - *****Debugging*********
+14:43:52.664 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Creating the User********
+14:43:55.103 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is created********
+14:43:55.119 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Reading the User info********
+14:43:55.404 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User info is displayed********
+14:43:55.409 [main] INFO  api.test.UserTestsfrompropertiesFile - ******Updating the User********
+14:43:55.656 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is updated********
+14:43:55.884 [main] INFO  api.test.UserTestsfrompropertiesFile - ******deleting the User********
+14:43:56.100 [main] INFO  api.test.UserTestsfrompropertiesFile - ******User is deleted********
